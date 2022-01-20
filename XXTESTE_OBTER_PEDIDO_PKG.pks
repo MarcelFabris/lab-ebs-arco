@@ -4,5 +4,6 @@ create or replace PACKAGE XXTESTE_OBTER_PEDIDO_PKG AS
   
   
   function versao return number;
-
+  
+  --alterado 1541
 END XXTESTE_OBTER_PEDIDO_PKG;
