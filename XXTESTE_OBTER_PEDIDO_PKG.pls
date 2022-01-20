@@ -5,7 +5,7 @@ create or replace PACKAGE BODY XXTESTE_OBTER_PEDIDO_PKG AS
   
   function versao return number is
   begin
-  return 1;
+  return 2;
   end;
 
 END XXTESTE_OBTER_PEDIDO_PKG;
